@@ -1,5 +1,8 @@
 # 💫 About Me:
-Desarrollador web frontend apasionado, con sólidos conocimientos en JavaScript y un gran interés en la inteligencia artificial. Me encanta sumergirme en proyectos web , creando experiencias de usuario atractivas y funcionales.<br><br>Aunque mi especialidad es el frontend, estoy constantemente ampliando mis habilidades y explorando nuevas tecnologías, como el aprendizaje automático y la IA. Me motiva estar al día con las últimas tendencias y encontrar soluciones innovadoras.<br><br>Soy una persona amable, colaborativa y dispuesta a ayudar. Creo firmemente en el poder del trabajo en equipo y en el intercambio de conocimientos para lograr los mejores resultados.<br><br>Mi objetivo principal es convertirme en un gran desarrollador, dominando las mejores prácticas y herramientas del sector. Estoy comprometido con el aprendizaje continuo y la superación constante.
+I am a passionate front-end web developer with solid knowledge in JavaScript and a keen interest in artificial intelligence. I love diving into web projects, creating engaging and functional user experiences.
+While my specialty is front-end, I am constantly expanding my skills and exploring new technologies, such as machine learning and AI. I am motivated to stay up-to-date with the latest trends and find innovative solutions.
+I am a friendly, collaborative, and helpful person. I strongly believe in the power of teamwork and knowledge sharing to achieve the best results.
+My main goal is to become a great developer, mastering the industry's best practices and tools. I am committed to continuous learning and constant improvement.
 
 ### I’m currently learning Bash and More of Backend 
 
