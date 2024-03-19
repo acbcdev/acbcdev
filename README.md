@@ -1,6 +1,7 @@
 # 💫 About Me:
 Desarrollador web frontend apasionado, con sólidos conocimientos en JavaScript y un gran interés en la inteligencia artificial. Me encanta sumergirme en proyectos web , creando experiencias de usuario atractivas y funcionales.<br><br>Aunque mi especialidad es el frontend, estoy constantemente ampliando mis habilidades y explorando nuevas tecnologías, como el aprendizaje automático y la IA. Me motiva estar al día con las últimas tendencias y encontrar soluciones innovadoras.<br><br>Soy una persona amable, colaborativa y dispuesta a ayudar. Creo firmemente en el poder del trabajo en equipo y en el intercambio de conocimientos para lograr los mejores resultados.<br><br>Mi objetivo principal es convertirme en un gran desarrollador, dominando las mejores prácticas y herramientas del sector. Estoy comprometido con el aprendizaje continuo y la superación constante.
 
+### I’m currently learning Bash and More of Backend 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-camilo-blandon-contreras-460776230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/camilobla1) 
