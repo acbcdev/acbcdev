@@ -1,10 +1,10 @@
 # 💫 About Me:
-I am a passionate front-end web developer with solid knowledge in JavaScript and a keen interest in artificial intelligence. I love diving into web projects, creating engaging and functional user experiences.
+I am a passionate front-end web developer with solid knowledge in JavaScript and a keep interest in artificial intelligence. I love playing on web projects, creating engaging and functional user experiences.
 While my specialty is front-end, I am constantly expanding my skills and exploring new technologies, such as machine learning and AI. I am motivated to stay up-to-date with the latest trends and find innovative solutions.
 I am a friendly, collaborative, and helpful person. I strongly believe in the power of teamwork and knowledge sharing to achieve the best results.
 My main goal is to become a great developer, mastering the industry's best practices and tools. I am committed to continuous learning and constant improvement.
 
-### I’m currently learning Bash and More of Backend 
+### I’m currently Learning Backend  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andres-camilo-blandon-contreras-460776230/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/camilobla1) 
